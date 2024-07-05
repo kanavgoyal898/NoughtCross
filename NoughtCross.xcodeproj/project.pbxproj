@@ -36,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4129D14B2C38A0A000FC9E15 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		414146572B4C2ADF003C6AFC /* NoughtCross.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoughtCross.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4141465A2B4C2ADF003C6AFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4141465C2B4C2ADF003C6AFC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		4141464E2B4C2ADF003C6AFC = {
 			isa = PBXGroup;
 			children = (
+				4129D14B2C38A0A000FC9E15 /* README.md */,
 				414146592B4C2ADF003C6AFC /* NoughtCross */,
 				414146702B4C2AE0003C6AFC /* NoughtCrossTests */,
 				4141467A2B4C2AE0003C6AFC /* NoughtCrossUITests */,
